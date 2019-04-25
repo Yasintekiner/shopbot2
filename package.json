@@ -1,0 +1,11 @@
+{
+  "name": "draqons",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Draqons",
+  "license": "ISC"
+}
